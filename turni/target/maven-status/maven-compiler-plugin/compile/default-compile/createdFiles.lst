@@ -1,0 +1,14 @@
+com\example\turni\client\FeignDependent.class
+com\example\turni\pojo\Response.class
+com\example\turni\security\SecurityConfig.class
+com\example\turni\service\RealizzaTurni.class
+com\example\turni\controller\ControllerHTML.class
+com\example\turni\pojo\MyUserDetails.class
+com\example\turni\repository\TurnoRepo.class
+com\example\turni\repository\UserRepository.class
+com\example\turni\service\HTMLService.class
+com\example\turni\documentation\SwaggerConfig.class
+com\example\turni\TurniApplication.class
+com\example\turni\service\MyUserDetailService.class
+com\example\turni\pojo\User.class
+com\example\turni\pojo\Turno.class
